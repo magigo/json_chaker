@@ -7,7 +7,7 @@ import json
 from lib.my_convertor import dfs_dict
 from lib.my_marshal import marshal
 
-type_convert_config = '/Users/jilu/Downloads/swagger_test.json'
+type_convert_config = 'data/swagger_test.json'
 # api_mapping = {"device_info": "Device", "event_info": "Event", "ip_info": "IpInfo"}
 api_mapping = {}
 
